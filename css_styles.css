@@ -33,17 +33,14 @@ body  {
     background-position: center;
     border: 5px solid rgb(53, 53, 53);
     top: 30px;
-    left: 250px;
+    left: 490px;
 
 }
 
 .twitter-timeline  {
-    position: relative;
-    background-position: right;
+    position: absolute;
+    background-position: center;
     border: 5px solid rgb(53, 53, 53);
-    top: 30px;
-    right: 250px;
-
 }
 
 #ukraine {
