@@ -22,7 +22,7 @@ h3  {
 }
 
 body  {
-    background-color: rgb(38, 38, 35);
+    background-image: url(/images/wallpaper.jpg);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -66,7 +66,7 @@ body  {
     margin: 20px;
     border:10px;
     border-style:ridge;
-    border-color: rgba(255, 152, 17, 0.329);
+    border-color: rgba(255, 156, 114, 0.329);
     height: 150px;
     width: 180px;
     background-color: rgb(75, 67, 57);
@@ -80,7 +80,7 @@ body  {
     margin: 20px;
     border:10px;
     border-style:ridge;
-    border-color: rgba(255, 152, 17, 0.329);
+    border-color:  rgba(255, 156, 114, 0.329);
     height: 150px;
     width: 180px;
     background-color: rgb(75, 67, 57);
@@ -95,7 +95,7 @@ body  {
     margin: 20px;
     border:10px;
     border-style:ridge;
-    border-color: rgba(255, 152, 17, 0.329);
+    border-color:  rgba(255, 156, 114, 0.329);
     height: 150px;
     width: 180px;
     background-color: rgb(75, 67, 57);
@@ -110,7 +110,7 @@ body  {
     margin: 20px;
     border:10px;
     border-style:ridge;
-    border-color: rgba(255, 152, 17, 0.329);
+    border-color:  rgba(255, 156, 114, 0.329);
     height: 150px;
     width: 180px;
     background-color: rgb(75, 67, 57);
@@ -125,7 +125,7 @@ body  {
     margin: 20px;
     border:10px;
     border-style:ridge;
-    border-color: rgba(255, 152, 17, 0.329);
+    border-color:  rgba(255, 156, 114, 0.329);
     height: 150px;
     width: 180px;
     background-color: rgb(75, 67, 57);
@@ -140,7 +140,7 @@ body  {
     margin: 20px;
     border:10px;
     border-style:ridge;
-    border-color: rgba(255, 152, 17, 0.329);
+    border-color:  rgba(255, 156, 114, 0.329);
     height: 150px;
     width: 180px;
     background-color: rgb(75, 67, 57);
